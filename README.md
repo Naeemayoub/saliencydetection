@@ -19,10 +19,4 @@ and shows the process time for each image.
 Kindly cite our paper
 References:
 [1] Naeem Ayoub, Zhenguo Gao, Danjie Chen, Rachida Tobji and Nianmin Yao, "Visual Saliency Detection Based on color Frequency Features under Bayesian framework,"KSII Transactions on Internet and Information Systems, vol. 12, no. 2, pp. 676-692, 2018. 
-    DOI: 10.3837/tiis.2018.02.008
-
-******************************************************************************************************************
-Special Thanks:
-We would like to say our thanks 
-[2] J. van de Weijer, Th. Gevers, J-M Geusebroek "Boosting Color Saliency in Image Feature Detection"
-(PAMI06), for providing the salient points detector.
+DOI: 10.3837/tiis.2018.02.008
